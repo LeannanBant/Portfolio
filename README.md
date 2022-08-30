@@ -1,2 +1,3 @@
 # Portfolio
-Mijn portfolio
+Eigenaar: Leannan
+Versie: 1.0.0
